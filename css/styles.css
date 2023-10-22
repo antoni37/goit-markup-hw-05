@@ -559,10 +559,10 @@ padding-left: 140 1020 100 156px;
   overflow: hidden;
 
 }
-.app-animation:hover .app-animation-p {
+.app-img:hover .app-animation-p {
 transform: translateY(0%);
 }
-.app-animation-p:focus {
+.app-img-p:focus {
   transform: translateY(0%);
   }
 
