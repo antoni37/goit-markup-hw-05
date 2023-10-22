@@ -559,8 +559,8 @@ padding-left: 140 1020 100 156px;
   overflow: hidden;
 
 }
-.app-link:hover .overlay-paragraph,
-.app-link:focus .overlay-paragraph {
+.app-img:hover .app-animation-p,
+.app-img:focus .app-animation-p {
   transform: translateY(0%);
 }
 
