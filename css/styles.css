@@ -604,7 +604,7 @@ a.container-menu-link {
   align-items: center;
 pointer-events: all;
 opacity: 1;
-}
+} 
 .backdrop.is-hidden{
   opacity: 0;
   pointer-events: none;
